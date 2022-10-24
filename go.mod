@@ -1,4 +1,4 @@
-module github.com/liamg/loading
+module github.com/aquasecurity/loading
 
 go 1.18
 

@@ -3,7 +3,7 @@ package bar
 import (
 	"io"
 
-	"github.com/liamg/loading/pkg/util"
+	"github.com/aquasecurity/loading/pkg/util"
 )
 
 // Option is a customisation function that modifies a Bar

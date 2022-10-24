@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/liamg/loading/pkg/util"
+	"github.com/aquasecurity/loading/pkg/util"
 )
 
 // Bar is a loading bar

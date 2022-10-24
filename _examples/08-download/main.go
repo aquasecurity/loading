@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/liamg/loading/pkg/bar"
+	"github.com/aquasecurity/loading/pkg/bar"
 )
 
 func main() {
